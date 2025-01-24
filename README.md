@@ -48,4 +48,4 @@ El script consta de las siguientes funciones principales:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/IamRodion/go-project?tab=MIT-1-ov-file).
